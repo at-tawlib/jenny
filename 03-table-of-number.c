@@ -13,7 +13,7 @@ int main(void)
 	for (i = 1; i <= 10; i++)
 	{
 		a = number * i;
-		printf("%d\n", a);
+		printf("%d x %2d = %-2d\n", number, i, a);
 	}
 	return (0);
 }
