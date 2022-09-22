@@ -22,3 +22,7 @@
 
 **11-metrices-addition.c** : program to print addition of two metrices
 
+
+**12-strings.c** : string and string functions
+
+**13-strings-more.c** : more string functions : length(`strlen()`), concatenate(`strcat()`)
