@@ -25,4 +25,4 @@
 
 **12-strings.c** : string and string functions
 
-**13-strings-more.c** : more string functions : length(`strlen()`), concatenate(`strcat()`)
+**13-strings-more.c** : more string functions : length(`strlen()`), concatenate(`strcat()`), compare(`strcmp()`) 
