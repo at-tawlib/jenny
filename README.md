@@ -1,5 +1,7 @@
 # JENNY YOUTUBE LECTURES ON C
 
+Variables and function names may be different.
+
 01-scanf.c :demo of formatted input function with scanf
 
 **02-calculator.c** : calculator app with `switch`, `scanf`, `printf`
@@ -26,3 +28,11 @@
 **12-strings.c** : string and string functions
 
 **13-strings-more.c** : more string functions : length(`strlen()`), concatenate(`strcat()`), compare(`strcmp()`) 
+
+**14-pointers.c** : pointer address and values
+
+**15-pointer-to-pointer.c** : pointer which points to another pointer
+
+**16-pointer-arithmetic.c** : subtraction and addition of pointers
+
+**17-pointer-incre-decrement.c** : increment and decrement of pointers
