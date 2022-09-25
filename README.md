@@ -36,3 +36,11 @@ Variables and function names may be different.
 **16-pointer-arithmetic.c** : subtraction and addition of pointers
 
 **17-pointer-incre-decrement.c** : increment and decrement of pointers
+
+**18-pointer-exercise.c** : pointer examples
+
+**19-void-pointer.c** : void pointers example
+
+**20-null-pointer.c** : null pointer example
+
+**21-dangling-pointer.c** : dangling pointers demo
