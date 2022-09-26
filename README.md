@@ -44,3 +44,5 @@ Variables and function names may be different.
 **20-null-pointer.c** : null pointer example
 
 **21-dangling-pointer.c** : dangling pointers demo
+
+**22-functions.c** : intro to functions
