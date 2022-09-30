@@ -46,3 +46,11 @@ Variables and function names may be different.
 **21-dangling-pointer.c** : dangling pointers demo
 
 **22-functions.c** : intro to functions
+
+**23-functions-array-arg.c** : functions with array as arguments
+
+**24-function-pointers.c** : pointers to functions
+
+**25-callback-function.c** : passing address of a function to a function
+
+**26-fxn-pointer-app.c** : Application of function pointers
