@@ -54,3 +54,35 @@ Variables and function names may be different.
 **25-callback-function.c** : passing address of a function to a function
 
 **26-fxn-pointer-app.c** : Application of function pointers
+
+**27-structure.c** : structure demo (includes structure pointers)
+
+**29-typedef-struct.c** : using typedef with structures
+
+**30-file-write.c** : writing to file using fputc(), fputs() and fprintf()
+
+**31-file-read.c** : read contents of file
+
+**32-file-append.c** : append text to file
+
+**33-file-r-plus.c** : read and modify file with r+ mode
+
+**34-file-w-plus.c** : write and read file with w+ mode
+
+**35-file-a-plus.c** : read and append file with a+ mode
+
+**36-file-fseek-ftell.c** : move file cursor with fseek() and get cursor position with ftell()
+
+**37-file-line-count.c** : counts the number of lines in a file
+
+**38-file-copy.c** : copy contents of one file to another file
+
+**39-malloc.c** : dynamically allocating memory with malloc
+
+**40-calloc.c** : dynamically allocating memory with calloc
+
+**41-realloc.c** : dyanamically resize memory with realloc()
+
+**42-free-mem.c** : freeing memory after usage with free()
+
+
