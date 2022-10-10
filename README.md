@@ -85,4 +85,6 @@ Variables and function names may be different.
 
 **42-free-mem.c** : freeing memory after usage with free()
 
+**43-define-macro.c** : define and use macros
 
+**44-predefined-macros.c** : accessing predefined macros
