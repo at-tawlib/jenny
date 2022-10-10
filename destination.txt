@@ -1,0 +1,5 @@
+hello world
+this is the string
+it is stored in this abc.text file
+file is appendednew appending
+okay lets try this
